@@ -1,0 +1,2 @@
+# Avaitor
+Avaitor predictions 
